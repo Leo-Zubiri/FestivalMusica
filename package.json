@@ -11,5 +11,8 @@
     "gulp"
   ],
   "author": "Leo Zubiri",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
 }
