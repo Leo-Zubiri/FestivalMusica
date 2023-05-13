@@ -1,6 +1,4 @@
 
-$rojo: blue;
+@use 'base';
+@use 'contenido';
 
-body{
-    background-color: $rojo;
-}
